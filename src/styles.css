@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.contents {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-list {
+  margin: 0 20px 0 0;
+}
+
+.actions {
+  margin: 0 20px 0 20px;
+}
+
+.righ-list {
+  margin: 0 0 0 20px;
+}
+
+/* var(--ss); */
